@@ -1,0 +1,23 @@
+body {
+
+background-color:yellow;
+  fon-size: 40 px;
+
+  }
+
+.special{
+
+}
+
+
+#bio  {
+color:  black;
+
+}
+li a  {
+  /*text decoration*/
+text-decoration: none;
+}
+h1,h2 {
+ font-family:  "Comic Sans MS";
+}
